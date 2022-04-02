@@ -1,0 +1,98 @@
+.my-btn-top {
+  margin: 0 auto 30px;
+  text-align: center;
+  font-size: 26px;
+  font-family: Noto Sans, sans-serif; }
+  .my-btn-top a {
+    text-decoration: none;
+    color: #fff;
+    -webkit-box-shadow: inset 0px 0px 15px #dfe61e;
+    -moz-box-shadow: inset 0px 0px 15px #dfe61e;
+    box-shadow: inset 0px 0px 15px #dfe61e;
+    background: repeating-linear-gradient(to top right, #58780c 0%, #b5bd18 100%) transparent;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    padding: 12px 30px; }
+    .my-btn-top a:hover {
+      background: repeating-linear-gradient(to bottom right, #e51019 0%, #c4000a 100%) #ed1c24;
+      -webkit-box-shadow: 0 0 0 transparent;
+      -moz-box-shadow: 0 0 0 transparent;
+      box-shadow: 0 0 0 transparent; }
+
+.shop2-cart-wrapper #shop2-cart .shop2-btn.shop2-cart-update {
+  font-family: Roboto;
+  margin-top: -30px;
+  background: url(../images/car-bb.jpg) 50% 50% no-repeat;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;
+  margin-right: 0;
+  width: 320px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  margin-top: 10px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 24px; }
+
+#shop2-msg {
+  font-size: 40px;
+  font-weight: 600;
+  padding: 5px;
+  font-family: Yanone Kaffeesatz, sans-serif;
+  line-height: normal; }
+
+.shop2-cart-product .cart-param-btn.opened:before {
+  top: 2px; }
+
+.title-page .form-41 .form-text input {
+  color: #000; }
+/*  1217  */
+.shop2-product-mode-wr .product-btn .buy-one-click {
+  display: block;
+  max-width: 208px;
+  margin: 10px auto 0 0; }
+  .shop2-product-mode-wr .product-btn .buy-one-click .shop2-btn {
+    font-family: 'rbl';
+    color: #d4020d;
+    font-size: 16px;
+    text-transform: none; }
+    .shop2-product-mode-wr .product-btn .buy-one-click .shop2-btn:hover {
+      color: #fff; }
+
+.popover-wrap.buy-one-click-form-popup .popover-body {
+  padding-left: 20px;
+  padding-right: 20px; }
+  .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa {
+    font-family: 'rbl'; }
+    .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .title {
+      font-size: 22px;
+      margin-bottom: 10px;
+      font-weight: 400; }
+    .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .tpl-field {
+      margin-bottom: 5px; }
+      .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .tpl-field .field-title {
+        margin-bottom: 5px;
+        font-weight: 400;
+        font-size: 14px; }
+        .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .tpl-field .field-title .field-required-mark {
+          color: red; }
+      .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .tpl-field .field-value textarea, .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .tpl-field .field-value input {
+        width: 100%;
+        max-width: 100%; }
+      .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .tpl-field.tpl-field-button .tpl-form-button {
+        background: #d4020d;
+        color: #fff;
+        border-radius: 4px;
+        font-size: 18px;
+        padding: 10px 20px; }
+        .popover-wrap.buy-one-click-form-popup .popover-body .tpl-anketa .tpl-field.tpl-field-button .tpl-form-button:hover {
+          background: #ff020f; }
+
+.shop2-cart-wrapper #shop2-cart .shop2-btn.shop2-cart-update {
+  position: relative;
+  margin: 0;
+  margin-top: 15px; }
+  @media all and (max-width: 960px) {
+  .shop2-cart-wrapper #shop2-cart .shop2-btn.shop2-cart-update {
+    padding-bottom: 44px; } }

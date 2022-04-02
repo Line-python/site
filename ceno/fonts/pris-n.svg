@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a0958e;
+        fill-rule: evenodd;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <path id="pris-n.svg" class="cls-1" d="M1016.5,782h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,782Zm0,21h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,803Zm0-14h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,789Zm0,7h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,796Z" transform="translate(-1014 -782)"/>
+</svg>

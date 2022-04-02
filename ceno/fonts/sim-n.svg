@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a0958e;
+        fill-rule: evenodd;
+        opacity: 0.44;
+      }
+    </style>
+  </defs>
+  <path id="sim-n.svg" class="cls-1" d="M975,782h18a4,4,0,0,1,4,4v4a4,4,0,0,1-4,4H975a4,4,0,0,1-4-4v-4A4,4,0,0,1,975,782Zm0,14h18a4,4,0,0,1,4,4v4a4,4,0,0,1-4,4H975a4,4,0,0,1-4-4v-4A4,4,0,0,1,975,796Z" transform="translate(-971 -782)"/>
+</svg>

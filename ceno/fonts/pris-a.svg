@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a0958e;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1014" y="810" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#e93b16"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="pris-a.svg" class="cls-1" d="M1016.5,810h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,810Zm0,21h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,831Zm0-14h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,817Zm0,7h21a2.5,2.5,0,0,1,0,5h-21A2.5,2.5,0,0,1,1016.5,824Z" transform="translate(-1014 -810)"/>
+</svg>
